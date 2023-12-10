@@ -8,3 +8,5 @@ The code is optimised to the core. Its a simple plug and play.
 If you run into any problems reach out to me on krishgera@outlook.com
 
 P.S (Important) : You have to enter the email id and password in the email_config.json file provided. The applications Ponder.exe, emaiL_config.json and questions.json all should be in the same directory. Make sure the internet is working as ponder requires internet connectivity to send test results. 
+
+The file might be incorrectly flagged as a virus, due to pyinstaller being used to build the python script, however this is not true.
