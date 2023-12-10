@@ -7,4 +7,4 @@ The code is optimised to the core. Its a simple plug and play.
 
 If you run into any problems reach out to me on krishgera@outlook.com
 
-P.S : You have to enter the email id and password in the Python Script to successfully get the test results on your mail, otherwise the result will not come.
+P.S (Important) : You have to enter the email id and password in the email_config.json file provided. The applications Ponder.exe, emaiL_config.json and questions.json all should be in the same directory. Make sure the internet is working as ponder requires internet connectivity to send test results. 
