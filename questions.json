@@ -1,0 +1,35 @@
+{
+  "timer_seconds": 60,
+  "questions": [
+    {
+      "question": "1. Who invented C++?",
+      "options": [ "Dennis Ritchie", "Ken Thompson", "Brian Kernighan", "Bjarne Stroustrup" ],
+      "answer": "Bjarne Stroustrup",
+      "marks": 1
+    },
+    {
+      "question": "Which of the following is the correct syntax of including a user defined header files in C++?",
+      "options": [ "#include [userdefined]", "#include “userdefined”", "#include <userdefined.h>", "#include <userdefined>" ],
+      "answer": "#include “userdefined”",
+      "marks": 1
+    },
+    {
+      "question": "Which of the following is used for comments in C++?",
+      "options": [ "/* comment */", "// comment */", "// comment", "both // comment or /* comment */" ],
+      "answer": "both // comment or /* comment */",
+      "marks": 1
+    },
+    {
+      "question": "Which of the following user-defined header file extension used in c++?",
+      "options": [ "hg", "cpp", "h", "hf" ],
+      "answer": "h",
+      "marks": 1
+    },
+    {
+      "question": "Which of the following is a correct identifier in C++?",
+      "options": [ "VAR_1234", "$var_name", "7VARNAME", "7var_name" ],
+      "answer": "VAR_1234",
+      "marks": 1
+    }
+  ]
+}
