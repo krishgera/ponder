@@ -30,6 +30,13 @@
       "options": [ "VAR_1234", "$var_name", "7VARNAME", "7var_name" ],
       "answer": "VAR_1234",
       "marks": 1
-    }
+    },
+    {
+      "question": "Which of these kernels are coded in C++",
+      "options": [ "Unix", "MACOS", "Linux", "ChromeOS" ],
+      "answer": "Linux",
+      "marks": 1
+  }
   ]
 }
+
